@@ -1,0 +1,6 @@
+Veuillez sélectionner une option pour l'exercice :
+0 : Revenir au Menu
+1 : Programme
+2 : Aide
+
+Votre choix :

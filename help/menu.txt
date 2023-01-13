@@ -1,0 +1,9 @@
+Veuillez sélectionner une option :
+0 : Quitter
+1 : Résoudre une équation du second degré
+2 : Programmer une suite
+3 : Fibonacci
+4 : Le nombre d’or & Fibonacci
+7 : Changer la Couleur du terminal
+
+Votre choix :

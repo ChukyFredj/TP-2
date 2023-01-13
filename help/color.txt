@@ -1,0 +1,10 @@
+Veuillez sélectionner une couleur :
+1 : Rouge
+2 : Vert
+3 : Jaune
+4 : Bleu
+5 : Violet
+6 : Bleu clair
+7 : Blanc
+
+Votre choix :

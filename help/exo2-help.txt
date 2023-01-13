@@ -1,0 +1,4 @@
+
+TP 2.2 - Programmer une suite
+Programme qui calcule la suite (R n ) définie par les condition suivante :
+0.5*(Un+2/Un)

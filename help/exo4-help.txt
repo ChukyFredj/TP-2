@@ -1,0 +1,7 @@
+
+TP 2.3 - Fibonacci
+Écrire une fonction calculant le nombre de Fibonacci d’un nombre.
+Le nombre de Fibonacci F(n) est défini comme suit :
+F(0) = 0;
+F(1) = 1;
+F(n) = F(n - 1) + F(n-2)

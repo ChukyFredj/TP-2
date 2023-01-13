@@ -1,0 +1,5 @@
+
+TP 2.1 - Résoudre une équation du second degré
+Le but est de résoudre une équation du second degré tel que :
+Ax² + Bx + C = 0
+https://calculis.net/resoudre-equation-second-degre
